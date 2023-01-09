@@ -1,0 +1,472 @@
+{
+    "MainFeature": 4,
+    "TitleList": [
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "espa├▒ol (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "espa├▒ol",
+                    "LanguageCode": "spa",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 14,
+                        "Ticks": 1217970
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 36000
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 6,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                62,
+                64,
+                54,
+                46
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 13,
+                "Ticks": 1254060
+            },
+            "FrameRate": {
+                "Den": 900900,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 480,
+                "PAR": {
+                    "Den": 27,
+                    "Num": 32
+                },
+                "Width": 720
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WESTERN",
+            "Path": "H:\\",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "espa├▒ol (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "espa├▒ol",
+                    "LanguageCode": "spa",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 1,
+                        "Minutes": 43,
+                        "Seconds": 31,
+                        "Ticks": 558987030
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 36000
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 6,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                0,
+                0,
+                2,
+                4
+            ],
+            "Duration": {
+                "Hours": 1,
+                "Minutes": 43,
+                "Seconds": 31,
+                "Ticks": 559023030
+            },
+            "FrameRate": {
+                "Den": 900900,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 480,
+                "PAR": {
+                    "Den": 9,
+                    "Num": 8
+                },
+                "Width": 720
+            },
+            "Index": 2,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                0,
+                2,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WESTERN",
+            "Path": "H:\\",
+            "Playlist": -1,
+            "SubtitleList": [
+                {
+                    "Attributes": {
+                        "4By3": true,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "espa├▒ol (4:3) [VOBSUB]",
+                    "LanguageCode": "spa",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 1
+                }
+            ],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "espa├▒ol (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "espa├▒ol",
+                    "LanguageCode": "spa",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 1,
+                        "Minutes": 24,
+                        "Seconds": 35,
+                        "Ticks": 456707970
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 36000
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 6,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 1,
+                "Minutes": 24,
+                "Seconds": 34,
+                "Ticks": 456744060
+            },
+            "FrameRate": {
+                "Den": 900900,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 480,
+                "PAR": {
+                    "Den": 9,
+                    "Num": 8
+                },
+                "Width": 720
+            },
+            "Index": 3,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WESTERN",
+            "Path": "H:\\",
+            "Playlist": -1,
+            "SubtitleList": [
+                {
+                    "Attributes": {
+                        "4By3": true,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "espa├▒ol (4:3) [VOBSUB]",
+                    "LanguageCode": "spa",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 1
+                }
+            ],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "espa├▒ol (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "espa├▒ol",
+                    "LanguageCode": "spa",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 1,
+                        "Minutes": 39,
+                        "Seconds": 29,
+                        "Ticks": 537248970
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 36000
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 6,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                58,
+                58,
+                10,
+                8
+            ],
+            "Duration": {
+                "Hours": 1,
+                "Minutes": 39,
+                "Seconds": 29,
+                "Ticks": 537285060
+            },
+            "FrameRate": {
+                "Den": 900900,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 480,
+                "PAR": {
+                    "Den": 27,
+                    "Num": 32
+                },
+                "Width": 720
+            },
+            "Index": 4,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                58,
+                58,
+                10,
+                8
+            ],
+            "Metadata": {},
+            "Name": "WESTERN",
+            "Path": "H:\\",
+            "Playlist": -1,
+            "SubtitleList": [
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "espa├▒ol (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "spa",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 1
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "espa├▒ol (Letterbox) [VOBSUB]",
+                    "LanguageCode": "spa",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 2
+                }
+            ],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        }
+    ]
+}
